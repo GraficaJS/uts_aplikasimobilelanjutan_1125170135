@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735091795901",
+    "project_id": "aplikasi-aset-kominfo-9482d",
+    "storage_bucket": "aplikasi-aset-kominfo-9482d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735091795901:android:4e67a490108fb01d6354d4",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_aset_komjb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmrLDCd_ydnV97Up1gdX22C-36SG4ags"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
